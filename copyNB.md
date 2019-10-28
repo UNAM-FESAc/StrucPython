@@ -1,5 +1,5 @@
 
-<img src="/sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 10px; width:50px" />
+<img src="/sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 10px; width:5px" />
 <!---
 ![sources/GCCYC.png](attachment:sources/GCCYC.png)![sources/GCCYC.png](attachment:sources/GCCYC.png)
 ![sources/logo-unam.png](attachment:sources/logo-unam.png)![sources/logo-unam.png](attachment:sources/logo-unam.png)
