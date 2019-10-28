@@ -1,6 +1,7 @@
 
-<img src="/sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 10px; width:5px" />
+<img src="/sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 10px; width:5px";height="100";width="100" />
 <!---
+![width='40%'](figs/QuantaCalaverita.png)
 ![sources/GCCYC.png](attachment:sources/GCCYC.png)![sources/GCCYC.png](attachment:sources/GCCYC.png)
 ![sources/logo-unam.png](attachment:sources/logo-unam.png)![sources/logo-unam.png](attachment:sources/logo-unam.png)
 <img src="../sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 30px; width:150px" />
