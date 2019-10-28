@@ -1,0 +1,2 @@
+Has abierto un archivo!
+Descrube todas las formas de manipular archivos en Python.
