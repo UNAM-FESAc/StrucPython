@@ -1,6 +1,12 @@
+```{r, out.width = "50%"}
+include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MC_Drei-Finger-Faultier.jpg/330px-MC_Drei-Finger-Faultier.jpg")
+```
 
-<img src="/sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 10px; width:5px";height="100";width="100" />
+![width='40%'](figs/QuantaCalaverita.png)
+
 <!---
+<img src="/sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 10px; width:5px";height="100";width="100" />
+
 ![width='40%'](figs/QuantaCalaverita.png)
 ![sources/GCCYC.png](attachment:sources/GCCYC.png)![sources/GCCYC.png](attachment:sources/GCCYC.png)
 ![sources/logo-unam.png](attachment:sources/logo-unam.png)![sources/logo-unam.png](attachment:sources/logo-unam.png)
