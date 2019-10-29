@@ -1,10 +1,8 @@
-```{r, out.width = "50%"}
-include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MC_Drei-Finger-Faultier.jpg/330px-MC_Drei-Finger-Faultier.jpg")
-```
-
-![width='40%'](figs/QuantaCalaverita.png)
+![width='40%'](sources/GCCYC.png)
 
 <!---
+<p><img src="sources/GCCYC.png" alt="Example" width="193" height="130"> (width:193px, height:130px)</p>
+
 <img src="/sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 10px; width:5px";height="100";width="100" />
 
 ![width='40%'](figs/QuantaCalaverita.png)
