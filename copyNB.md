@@ -1,6 +1,8 @@
-<p><img src="sources/GCCYC.png" style="float: right; margin-right: 10px; width:5px" alt="Example" width="100" height="100"/>
-<img src="sources/logo-unam.png" style="float: left; margin-right: 10px; width:5px" alt="Example" width="100" height="100"/></p>
+<img src="sources/GCCYC.png" style="float: right; margin-right: 10px; width:5px" alt="Example" width="100" height="100"/>
+<img src="sources/logo-unam.png" style="float: left; margin-right: 10px; width:5px" alt="Example" width="100" height="100"/>
+
 <!---
+<p></p>
 ![scale='5%'](sources/GCCYC.png)
 
 <p><img src="sources/GCCYC.png" alt="Example" width="193" height="130"></p>
