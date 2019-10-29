@@ -1,0 +1,15 @@
+Bitacora sobre esta carpeta:
+
+yeyecoa.
+
+
+Ya esta listo para colocar todos los archivos, 
+falta convertirlos a html
+
+jupyter nbconvert --to html copyNB.ipynb
+
+
+o pdf, markdown u otros.
+
+
+
