@@ -1,4 +1,4 @@
-![width='5%'](sources/GCCYC.png)
+![scale='5%'](sources/GCCYC.png)
 
 <!---
 <p><img src="sources/GCCYC.png" alt="Example" width="193" height="130"> (width:193px, height:130px)</p>
