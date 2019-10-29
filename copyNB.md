@@ -1,9 +1,9 @@
-<p><img src="sources/GCCYC.png" alt="Example" width="193" height="130"> (width:193px, height:130px)</p>
+<p><img src="sources/GCCYC.png" style="float: right; margin-right: 10px; width:5px" alt="Example" width="130" height="130"></p>
 
 <!---
 ![scale='5%'](sources/GCCYC.png)
 
-<p><img src="sources/GCCYC.png" alt="Example" width="193" height="130"> (width:193px, height:130px)</p>
+<p><img src="sources/GCCYC.png" alt="Example" width="193" height="130"></p>
 
 <img src="/sources/GCCYC.png" alt="Logo GCCyC" style="float: right; margin-right: 10px; width:5px";height="100";width="100" />
 
